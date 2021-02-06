@@ -81,3 +81,10 @@ img{
 	background-color:#CCC;
 	
 }
+@keyframes myfirst{
+	from{background:red;}
+	to{background:green;}
+}
+nav{
+	animation:myfirst 1s;
+}
