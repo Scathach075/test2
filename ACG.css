@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+nav {  
+        margin: 0;  
+        padding: 0;  
+        background-color:#ef9c74;
+		font-size:1.42em;
+}
+    nav li {  
+		list-style:none;
+        display: inline-block;
+}  
+    li a {  
+        display: block;  
+        color: white;  
+        text-align: center;  
+        padding:16px 150px;  
+        text-decoration: none;
+}  
+    li a:hover {  
+        background-color:#3e6a9b;  
+}  
+
+div div div div{
+	width:300px;
+	height:500px;
+	text-align:center;
+	font-size:20px;
+	float:left;
+	margin:0 5px;
+}
+
+.daohang{
+	height:411px;
+	width:1538px;
+	background:url(image/head.jpg);	
+}
+
+
+h1{
+	color:#64a2b7;
+	text-align:left;
+
+	}
+img{
+	height:480px;
+	width:300px;
+}
+.zong{
+	width:1538px;
+	margin:0 auto;
+	background-color:#000;
+
+}
+
+
+
+.middle{
+	height:1732px;
+	width:1538px;
+	margin:0 auto;
+
+	}
+.acg{
+	width:1250px;
+	height:524px;
+	margin:0 auto 50px auto;
+	
+}
+.abcd{
+	height:1732px;
+	width:1250px;
+	float:left;
+}
+
+.paihang{
+	width:263px;
+	height:1732px;
+	border:5px thin #000;
+	margin-left:1250px;
+	background-color:#CCC;
+	
+}
